@@ -1,0 +1,26 @@
+Average Performance by Topic:
+       topic      score
+0    Biology  72.000000
+1  Chemistry  69.805556
+2    Physics  68.774194
+
+Average Performance by Difficulty Level:
+  difficulty      score
+0       Easy  68.121212
+1       Hard  69.309524
+2     Medium  74.480000
+
+Response Accuracy by Topic:
+       topic   correct
+0    Biology  0.575758
+1  Chemistry  0.555556
+2    Physics  0.516129
+
+Historical Performance Trends:
+   quiz_id  score
+0        1  63.93
+1        2  64.11
+2        3  64.50
+3        4  65.44
+4        5  64.33
+
