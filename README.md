@@ -91,7 +91,6 @@ The **NEET Rank Predictor** project follows a structured approach to analyze qui
    - Develop interactive dashboards using tools like Dash or Streamlit for a more user-friendly experience.
 
    ## PDF Report
-You can view the PDF report with screenshots and insights [here](https://github.com/sindhupl/NEET-Rank-Predictor/blob/main/Gallery_20250131_210925.pdf).
+You can view the PDF report with screenshots and insights [here] (https://github.com/sindhupl/NEET-Rank-Predictor/blob/main/Gallery_20250131_210925.pdf).
 
-
-
+## [Watch the tutorial video here] https://youtu.be/TS-P00iXofI?si=sTvCS-loB-Q4x1NJ
